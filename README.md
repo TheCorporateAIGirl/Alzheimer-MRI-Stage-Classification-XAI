@@ -41,3 +41,10 @@ By calculating the gradients of the target class (e.g., *Moderate Demented*) wit
 - `alzheimer_classification.ipynb`: Full end-to-end pipeline (EDA, Training, XAI).
 - `images/`: Visual assets (Confusion Matrix, Heatmaps).
 - `requirements.txt`: Environment dependencies.
+
+
+### Model Performance
+![Confusion Matrix](Confusion%20Matrix.png)
+
+### Explainable AI (Grad-CAM)
+![Clinical Heatmap](The%20Grad-CAM%20Heatmap.png)
